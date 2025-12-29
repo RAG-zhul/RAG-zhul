@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 🤔 Nothing is anything. 
 
-<img src="https://picx.zhimg.com/80/v2-7255b8508499b8c940e42f78b08ba0fb_1440w.jpeg" width="100%" style="border-radius: .5em;"/>
+<img src="https://tse3.mm.bing.net/th/id/OIP.lxfjNMT_Q5eHCKB37M6miAHaFj?rs=1&pid=ImgDetMain&o=7&rm=3" width="100%" style="border-radius: .5em;"/>
 
 ## 📬 Touch me
 
@@ -46,6 +46,7 @@ Here are some ideas to get you started:
   <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSTM-Kirigaya&theme=tokyonight" />
 </div> -->
 
+# 尝试摆脱现状中...
 <br>
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAG-zhul&theme=tokyonight" />
