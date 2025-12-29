@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 🤔 Nothing is anything. 
 
-<img src="https://tse3.mm.bing.net/th/id/OIP.lxfjNMT_Q5eHCKB37M6miAHaFj?rs=1&pid=ImgDetMain&o=7&rm=3" width="100%" style="border-radius: .3em;"/>
+<img src="https://tse3.mm.bing.net/th/id/OIP.lxfjNMT_Q5eHCKB37M6miAHaFj?rs=1&pid=ImgDetMain&o=7&rm=3" width="80%" style="border-radius: .5em;"/>
 
 ## 📬 Touch me
 
