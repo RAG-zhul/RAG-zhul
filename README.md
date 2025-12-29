@@ -42,12 +42,12 @@ Here are some ideas to get you started:
 </p>
 
 
-<div align="center" style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center;">
+<!-- <div align="center" style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center;">
   <img height="300px" src="self.jpg" style="border-radius: .5em;" />
   <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSTM-Kirigaya&theme=tokyonight" />
-</div>
+</div> -->
 
 <br>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LSTM-Kirigaya&theme=tokyonight" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAG-zhul&theme=tokyonight" />
 
