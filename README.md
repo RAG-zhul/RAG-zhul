@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="mailto:2870783879@qq.com">☎️ Email</a> | 
-  <a href="https://kirigaya.cn/home" target="_blank" rel="noopener noreferrer">💻 Website</a> | 
+  <!-- <a href="https://kirigaya.cn/home" target="_blank" rel="noopener noreferrer">💻 Website</a> |  -->
   <a href="https://www.zhihu.com/people/LLeyang/posts" target="_blank" rel="noopener noreferrer">📖 Zhihu</a> | 
   <a href="https://space.bilibili.com//436230571" target="_blank" rel="noopener noreferrer">📺 BiliBili</a>
 </p>
